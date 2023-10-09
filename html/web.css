@@ -1,0 +1,56 @@
+.navbar {
+    background-color: rgb(27, 1, 1);
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    padding: 10px 10px;
+
+}
+
+.navbar li a {
+
+    /* text-decoration: none; */
+    color: rgb(221, 127, 3);
+
+}
+
+#imageset {
+    text-align: center;
+    background-color: rgb(245, 134, 8);
+}
+
+.contanier {
+    height: 250px;
+    border: 5px solid black;
+    display: flex;
+}
+
+.item {
+    width: 25%;
+    background-color: rgba(248, 141, 2, 0.89);
+    border: 2px solid black;
+    padding: 12px;
+
+}
+
+.item1 {
+    width: 75%;
+    background-color: rgb(243, 139, 2);
+    border: 2px solid black;
+    padding: 12px;
+
+}
+.footer{
+ border: 2px solid black;
+ height: 90px;
+ margin-top:12px ;
+ text-align: center;
+ padding:10px ;
+    background-color: rgb(243, 139, 2) ;
+}
